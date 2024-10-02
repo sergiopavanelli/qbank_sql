@@ -63,12 +63,3 @@ CREATE TABLE PagamentoServico (
     Data_Pagamento DATE NOT NULL,
     FOREIGN KEY (ID_Conta) REFERENCES Conta(ID_Conta) ON DELETE CASCADE  -- FK ligando PagamentoServico a Conta
 );
-
-
-
-
-
-
-
-
-
