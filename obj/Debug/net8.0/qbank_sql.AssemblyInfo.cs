@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("qbank_sql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c426c76247f6cdd9e918e2f71a1358f7a5f48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0f0fa00d9c850940e4de9a7a4f674ae93039ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("qbank_sql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qbank_sql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

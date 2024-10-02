@@ -28,7 +28,9 @@ CREATE TABLE Transacao (
     Tipo_Transacao VARCHAR(20) NOT NULL,  -- Usando VARCHAR para o tipo de transação
     CONSTRAINT CHK_Tipo_Transacao CHECK (Tipo_Transacao IN ('Transferência', 'Depósito', 'Saque')),  -- Restringe os valores possíveis
     FOREIGN KEY (ID_Conta_Origem) REFERENCES Conta(ID_Conta) ON DELETE CASCADE,  -- FK para Conta de origem
-    );
+    FOREIGN KEY (ID_Conta_Destino) REFERENCES Conta(ID_Conta) ON DELETE CASCADE  -- FK para Conta de destino
+);
+
    
    
    -- Criação da tabela Emprestimo
