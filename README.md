@@ -53,3 +53,10 @@ O banco de dados foi modelado com base nas entidades e relações envolvidas no 
 ## Scripts DDL
 
 Os scripts de criação de tabelas estão disponíveis no repositório e seguem as definições de chaves primárias, chaves estrangeiras e restrições de integridade.
+
+
+## MER (arquivo png)
+
+![qbank-estudante](https://github.com/user-attachments/assets/df50fa44-e13d-48d6-bcd1-571c1f5ecfd9)
+
+
