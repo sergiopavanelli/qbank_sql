@@ -57,6 +57,5 @@ Os scripts de criação de tabelas estão disponíveis no repositório e seguem 
 
 ## MER (arquivo png)
 
-![qbank-estudante](https://github.com/user-attachments/assets/df50fa44-e13d-48d6-bcd1-571c1f5ecfd9)
-
+![qbank-estudante - qbank-estudante - dbo](https://github.com/user-attachments/assets/fea3f960-78eb-4568-87dd-8dc8bf61fe19)
 
